@@ -1,6 +1,7 @@
 # React_Vite_Typescript_template
 
-### Description: a minimal frontend template that utilizes React, Vite, and TypeScript.
+### Description
+a minimal frontend template that utilizes React, Vite, and TypeScript.
 
 ### tech-stack
 
